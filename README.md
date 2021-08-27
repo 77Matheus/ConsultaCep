@@ -1,6 +1,15 @@
 # ConsultaCep
 Site de pesquisa para **CEP**
 
+Feito com:
+
+* HTML5
+* CSS3
+* JAVASCRIPT
+* JQUERY
+* AJAX
+* BOOTSTRAP
+
 ![cep](https://user-images.githubusercontent.com/87195708/131143906-ef691175-3242-45c2-b323-f008c51cc4e0.png)
 
 
